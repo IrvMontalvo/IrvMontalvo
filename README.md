@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**IrvMontalvo/IrvMontalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Image](https://pbs.twimg.com/profile_banners/1321263663186092032/1605294885/1500x500)
+### Hello, I'm Irving Montalvo 👋
+```
++ Functional programmer
++ IFRS Accountant
++ Frustrated artist
+```
+[Muchik](https://muchik.net)
+| [Twitter](https://twitter.com/IrvMontalvo)
+| [DeviantArt](https://www.deviantart.com/irvmontalvo)
+| [Pinterest](https://www.pinterest.com/IrvMontalvo)
+| [YouTube](https://www.youtube.com/channel/UCRVsgHASXc4FYyR5F3Nb5Iw)
