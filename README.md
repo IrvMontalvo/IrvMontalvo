@@ -1,5 +1,4 @@
-![Image](https://pbs.twimg.com/profile_banners/1321263663186092032/1605294885/1500x500)
-### Hello, I'm Irving Montalvo 👋
+![Image](https://muchik.net/img/bg.png)
 ```
 + Functional programmer
 + IFRS Accountant
